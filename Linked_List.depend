@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1693214924 source:e:\c++\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1693213120 e:\c++\linked_list\stack.h
+	"stack.c"
+
+1693215078 e:\c++\linked_list\stack.c
+	"stack.h"
+
